@@ -1,0 +1,14 @@
+
+1] STM32F401CCU6 Board	1	Nucleo or custom board
+
+2] DC Motors (Omni Wheels)	3	For omnidirectional drive
+
+3] IRF540 MOSFET Modules	3	For motor PWM control
+
+4] Ultrasonic Sensors (HC-SR04)	3	For front, left, and right obstacle sensing
+
+5] Servo Motors (SG90)	0-3	Optional, for sensor scanning
+
+6] Power Supply	1	5V for logic, 12V+ for motors
+
+7] Jumper Wires, Breadboard	As needed	For connections
